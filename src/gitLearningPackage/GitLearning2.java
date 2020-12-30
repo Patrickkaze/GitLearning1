@@ -69,7 +69,7 @@ System.out.println("This is m2 - Non Static Method");
     	 System.out.println(ne.a);
     	 
     	 
-    	 
+    	  
     	 
     	 
     	 
